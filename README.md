@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.png" width="100%" alt="Vultures Ethical Hacker Banner">
+  <img src="github.png" width="180%" alt="Vultures Ethical Hacker Banner">
 </p>
 
 <p align="left">
