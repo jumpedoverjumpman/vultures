@@ -13,7 +13,7 @@
 
   <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=dracula&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" height="170" alt="Top Languages" />
 </div>
----
+
 
 ### 🛠 Security Toolkit & Stack
 <div align="left">
