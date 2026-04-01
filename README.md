@@ -9,9 +9,9 @@
 ---
 ### 🔍 Profile Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jumpedoverjumpman&show_icons=true&theme=dracula&title_color=ff79c6&text_color=bd93f9&icon_color=8be9fd&bg_color=282a36&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=jumpedoverjumpman&show_icons=true&theme=dracula&title_color=ff79c6&text_color=bd93f9&icon_color=8be9fd&bg_color=282a36" height="170" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=dracula&title_color=ff79c6&text_color=bd93f9&bg_color=282a36&hide_border=false&cache_seconds=1800" height="170" alt="Top Languages" />
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs?username=jumpedoverjumpman&layout=compact&theme=dracula&title_color=ff79c6&text_color=bd93f9&bg_color=282a36" height="170" alt="Top Languages" />
 </div>
 ---
 
